@@ -1,0 +1,14 @@
+.venv/
+.env
+data/
+__pycache__/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/build-log.txt
+HealthSync.apk
+.tools/
+.pytest_cache/
+*.pyc

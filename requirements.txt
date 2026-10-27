@@ -1,0 +1,7 @@
+aiogram==3.31.0
+anthropic==2.1.0
+fastapi==0.159.1
+python-dotenv==1.2.4
+tzdata==2026.5
+uvicorn==0.54.0
+mcp==2.3.0
