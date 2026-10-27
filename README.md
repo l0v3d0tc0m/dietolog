@@ -4,10 +4,10 @@
 
 ```
 Redmi Watch → Mi Fitness ─┐
-FatSecret ────────────────┴→ Health Connect → Android-приложение HealthSync
+FatSecret ────────────────┴→ Health Connect → Android-app HealthSync
                                                    │  POST /ingest (каждые 30 мин)
                                                    ▼
-                                ПК: python -m app.main  (SQLite в data/health.db)
+                                PC: python -m app.main  (SQLite в data/health.db)
                                                    │
                                      Claude + инструменты ⇄ Telegram-бот
 ```
